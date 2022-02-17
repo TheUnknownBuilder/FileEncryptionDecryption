@@ -24,15 +24,15 @@ The result will be stored in the same folder as the original file.
 4. .TXT
 
 ## Screenshots
-##### Home Page
-![](assets/homepage.PNG)
-##### Movie Page
-![](assets/moviepage.PNG)
-![](assets/moviepage2.PNG)
-##### User Profile
-![](assets/loginpage.PNG)
-##### Search Results
-![](assets/searchmovie.PNG)
+##### Main Menu
+![](assets/Main Menu.PNG)
+##### Enryption
+![](assets/uploaded a file.PNG)
+![](assets/encrypted_file_formed.PNG)
+##### Decryption
+![](assets/uploaded a file for decryption.PNG)
+![](assets/decryption done.PNG)
+
 
 ## Future Scope
 1. We can have various options of encrypting and decrypting algorithms by which the process can be done.
