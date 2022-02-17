@@ -27,7 +27,7 @@ def decrypt(filename, key):
     # decrypt data
     decrypted_data = f.decrypt(encrypted_data)
     # write the original file
-    with open(filename+'_decrypted', "wb") as file:
+    with open(filename+'_decrypted.png', "wb") as file:
         file.write(decrypted_data)
     
 def write_key():
