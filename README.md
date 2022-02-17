@@ -23,17 +23,6 @@ The result will be stored in the same folder as the original file.
 3. .JPEG
 4. .TXT
 
-## Screenshots
-##### Main Menu
-![](assets/Main Menu.PNG)
-##### Enryption
-![](assets/uploaded a file.PNG)
-![](assets/encrypted_file_formed.PNG)
-##### Decryption
-![](assets/uploaded a file for decryption.PNG)
-![](assets/decryption done.PNG)
-
-
 ## Future Scope
 1. We can have various options of encrypting and decrypting algorithms by which the process can be done.
 2. Multiple other files like audio, video, etc can be encrypted and decrypted.
